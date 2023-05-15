@@ -1,0 +1,1 @@
+{"uuid":"3172550d-53ae-40d3-8a69-5d7db17d13a8","name":"backend-automation-test","children":["33bcded5-3f83-4682-9c8e-f24e1af92115"],"befores":[{"name":"setUpConfiguration","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683013630077,"stop":1683013630963}],"afters":[],"start":1683013630045,"stop":1683013641283}

@@ -1,0 +1,11 @@
+pojo/TagList$TagListBuilder.class
+pojo/campaignRequestBuilder.class
+pojo/Tags$TagsBuilder.class
+pojo/Campaign$CampaignBuilder.class
+org/example/BaseTest.class
+pojo/endpoints.class
+pojo/Tags.class
+pojo/campaignRequest.class
+pojo/Campaign.class
+pojo/campaignRequest$campaignRequestBuilder.class
+pojo/TagList.class
